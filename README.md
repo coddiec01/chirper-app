@@ -4,9 +4,11 @@ This application allows a user to create, modify, and search chirps.
 # Install python
 Ensure Python is installed on your computer. 
 1. To set up python locally, first check to see if it's already installed by opening your CLI (commmand line interface) and inputting python --version or python3 --version.
-2. If you do not have python installed, refer to this website: https://www.python.org/ and following the installation instructions for your operating system.
+2. If you do not have python installed, refer to this website: https://www.python.org/ and follow the installation instructions for your operating system.
 3. Once this is complete, ensure that its installation directory is added to your PATH environment varibale. This will enable your shell to find the "python" command.
 4. To ensure step 3 is complete, in your terminal, type in "echo $PATH" to verify that the directory  (where python is installed) is included in the output.
+# Install basicdb
+Refer here: https://pypi.org/project/basicdb/ and follow the installation instructions.
 # Running the web application
 Here's how you can use pgAdmin:
 
