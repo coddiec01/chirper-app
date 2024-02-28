@@ -27,7 +27,7 @@ python chirper_client.py
 - The client-side script is responsible for handling user input, making requests to the server-side endpoints defined by the chirper service, and displaying the results to the user.
 
 # Advanced Instruction
-If you would like to be more advance, you can develop a SQL database to store the chirps. For example, you could have the script interact with pgAdmin by storing user information in a PostgreSQL database.
+If you would like to be more advanced, you can develop a SQL database to store the chirps. For example, you could have the script interact with pgAdmin and store user information in a PostgreSQL database.
 
 Here's how you can use pgAdmin:
 
