@@ -1,4 +1,4 @@
-# chirper-app
+# Chirper App
 # About
 A script that is interacting with a hypothetical chirper service through HTTP requests using the requests library in Python, which allows users to log in, read chirps, post chirps, and search for chirps.
 # Install Python
