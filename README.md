@@ -1,4 +1,6 @@
-# Chirper App
+![image](https://github.com/coddiec01/chirper-app/assets/160797879/13b780fc-31c0-4445-991c-3037ccbc4f6e)
+
+# Chirper App Project
 # About
 A script that is interacting with a hypothetical chirper service through HTTP requests using the requests library in Python, which allows users to log in, read chirps, post chirps, and search for chirps.
 # Install Python
